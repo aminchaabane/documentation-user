@@ -2,35 +2,33 @@
 Use quotation templates
 =======================
 
-If you often sell the same products or services, you can save a lot of
-time by creating custom quotation templates. By using a template you can
-send a complete quotation in no time.
+By creating custom quotation templates, you will save a lot of time. Indeed, with the use of
+templates, you will be able to send complete quotations at a fast pace.
 
 Configuration
 =============
 
-For this feature to work, go to :menuselection:`Sales --> Configuration
---> Settings` and activate *Quotations Templates*.
+To enable this feature, go to :menuselection:`Sales --> Configuration --> Settings` and activate
+**Quotations Templates**.
 
-.. image:: media/quote_template01.png
-  :align: center
+.. image:: media/quotations_templates_1.png
+   :align: center
+   :alt: How to enable quotation templates on Odoo Sales?
 
 Create your first template
 ==========================
 
-You will find the templates menu under :menuselection:`Sales -->
-Configuration`.
+Quotation templates are under :menuselection:`Sales --> Configuration`.
 
-You can then create or edit an existing one. Once named, you will be
-able to select the product(s) and their quantity as well as the
-expiration time for the quotation.
+You can create a new template or edit an existing one. Once named, you will be able to select
+products and quantities as well as the expiration time of the quotation.
 
-.. image:: media/quote_template02.png
-  :align: center
+.. image:: media/quotations_templates_2.png
+   :align: center
+   :alt: Create a new quotation template on Odoo Sales
 
-On each template, you can also specify discounts if the option is
-activated in the *Sales* settings. The base price is set in the
-product configuration and can be changed by customer pricelists.
+On each template, you can also specify discounts if the option is activated in the *Sales* settings.
+The base price is set in the product configuration and can be changed by customer pricelists.
 
 .. seealso::
    - :doc:`../products_prices/prices/pricing`
